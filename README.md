@@ -39,6 +39,10 @@ The original raw data is not included in this repository. It can be downloaded f
 - Timeline Filter
 - GitHub
 
+## License
+Code, dashboard and documentation: MIT License
+Original data: Open Government Licence
+
 ## Project Structure
 
 ```text
@@ -56,7 +60,3 @@ Public-procurement-dashboard/
 ├── README.md
 ├── LICENSE
 └── .gitignore
-
-## License
-Code, dashboard and documentation: MIT License
-Original data: Open Government Licence
