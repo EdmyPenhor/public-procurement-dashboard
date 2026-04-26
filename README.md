@@ -56,3 +56,7 @@ Public-procurement-dashboard/
 ├── README.md
 ├── LICENSE
 └── .gitignore
+
+## License
+Code, dashboard and documentation: MIT License
+Original data: Open Government Licence
