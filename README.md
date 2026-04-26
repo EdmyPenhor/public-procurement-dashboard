@@ -40,8 +40,8 @@ The original raw data is not included in this repository. It can be downloaded f
 - GitHub
 
 ## License
-Code, dashboard and documentation: MIT License
-Original data: Open Government Licence
+- Code, dashboard and documentation: **MIT License**
+- Original data: **Open Government Licence**
 
 ## Project Structure
 
