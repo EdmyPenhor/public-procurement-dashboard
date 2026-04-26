@@ -1,9 +1,9 @@
-# Advanced Excel Public Procurement & Supplier Risk Dashboard
+# Advanced Excel Public Procurement Dashboard
 
 ## Project Overview
 
 This project analyzes public supplier payments made by Bristol City Council using Advanced Excel. The goal is to transform raw public procurement payment data into an interactive dashboard that helps monitor supplier spending, payment patterns, supplier concentration, high-value transactions and potential procurement risk indicators.
-
+![Dashboard Overview](images/dashboard_overview.png)
 The project was developed as a portfolio project to demonstrate advanced Excel skills, including Power Query, Power Pivot, data modelling, DAX measures, Pivot Tables, Pivot Charts, data quality checks and dashboard design.
 
 ## Business Problem
